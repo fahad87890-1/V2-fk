@@ -17,21 +17,21 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61557169379945",
-    "61557169379945",
-    "100090809171604"
+    "61579396809753",
+    "",
+    ""
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "authorName": "RAFI",
+  "authorName": "Fahad",
   "AGE": "16",
   "GENDER": "MALE",
-  "nickNameBot": "♡︎ 𝗚𝗢𝗞𝗨 𝗕𝗟𝗔𝗖𝗞 ♡︎",
-  "authorFB": "https://www.facebook.com/profile.php?id=61560170243143",
-  "prefix": ".",
+  "nickNameBot": "♡︎ Fahad ♡︎",
+  "authorFB": "https://www.facebook.com/fahad.islam.878",
+  "prefix": "+",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
